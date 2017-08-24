@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitRxJava</string>
+    <string name="glide_plus_icon_string">android.resource://</string>
+</resources>
